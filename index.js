@@ -42,7 +42,7 @@ const createTask = () => {
       console.log("====================================");
       console.log("Task added successfully");
       console.log("====================================");
-      console.log("Tasks:");
+      console.log("Tasks after addition:");
       console.table(tasks);
       console.log("====================================");
     })
