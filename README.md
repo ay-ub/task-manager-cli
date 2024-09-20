@@ -20,7 +20,7 @@ A simple command-line interface (CLI) task manager application built using Node.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-cli.git
+   git clone https://github.com/ay-ub/task-manager-cli.git
    ```
 
 2. Navigate to the project directory:
