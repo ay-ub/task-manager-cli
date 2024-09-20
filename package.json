@@ -1,0 +1,27 @@
+{
+  "name": "tasky",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "keywords": [
+    "task",
+    "manager",
+    "cli",
+    "node",
+    "javascript",
+    "inquirer",
+    "tasky",
+    "task-manager"
+  ],
+  "author": "AYYOUB HADJ-YOUCEF",
+  "license": "MIT",
+  "description": "A simple task manager CLI",
+  "dependencies": {
+    "inquirer": "^11.0.1"
+  }
+}
